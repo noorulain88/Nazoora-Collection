@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Header() {
     return (
-        <div className=" h-[100vh] bg-[url('/images/images3.jpg')] bg-contain bg-left flex items-center text-black" id="home">
+        <div className=" h-[100vh] bg-[url('/Images/images3.jpg')] bg-contain bg-left flex items-center text-black" id="home">
             <h1 className="text-5xl ml-10 pl-60  text-center  md:text-7xl lg:text-8xl font-bold text-white  ">
                     
                Nazoora Collection
