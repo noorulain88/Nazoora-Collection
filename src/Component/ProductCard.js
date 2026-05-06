@@ -1,4 +1,5 @@
 import React from 'react'
+import ProductButton from './ProductButton'
 
 export default function ProductCard({ name, price, src }) {
   return (
@@ -8,6 +9,7 @@ export default function ProductCard({ name, price, src }) {
       <img src={src} className='rounded-xl w-full' />
       <h3 className='p-8 text-2xl'>{name}</h3>
       <p className='text-yellow-600'>{price}</p>
+      {/* <ProductButton/> */}
 
     </div>
 
