@@ -10,7 +10,7 @@ export default function Header() {
                     Style
                 </span> */}
             </h1>
-            <p className="text-lg text-white max-w-2xl mt-100 pl-20  mx-auto">
+            <p className="text-lg  text-white max-w-2xl mt-100 pl-20  mx-auto">
                 Our latest bag collection blends style and functionality, offering trendy designs perfect for everyday use. From elegant handbags to spacious totes, each piece is crafted to complement your look while keeping your essentials organized.
 
              
