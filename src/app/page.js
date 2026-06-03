@@ -3,7 +3,7 @@
 import Button from "@/Component/button";
 import FooterSection from "@/Component/FooterSection";
 import Header from "@/Component/Header";
-import HeroSection from "@/Component/HeroSection";
+// import HeroSection from "@/Component/HeroSection";
 import Navbar from "@/Component/Navbar";
 import ProductSection from "@/Component/ProductSection";
 
@@ -15,7 +15,7 @@ export default function Home() {
 
       <Header />
       <Button />
-      <HeroSection />
+      {/* <HeroSection /> */}
       <ProductSection />
   
       <FooterSection/>

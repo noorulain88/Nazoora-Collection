@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function FooterSection() {
   return (
-    <div className="bg-gray-700  text-white py-20 pt-20  mt-10 px-9 grid grid-cols-1 md:grid-cols-3 gap-8"id="contact">
+    <div className="  bg-gradient-to-r from-blue-500 to-yellow-600  text-white py-20 pt-20  mt-10 px-9 grid grid-cols-1 md:grid-cols-3 gap-8"id="contact">
              <h1 className='text-4xl p-4 text-center font-old'>Contact us</h1>
       <div>
    
